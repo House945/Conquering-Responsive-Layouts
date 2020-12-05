@@ -1,0 +1,21 @@
+body {
+    background: lightgreen;
+    font-family: Georgia, Arial, Helvetica;
+}
+.container {
+    max-width: 500px;
+    width: 70%;
+    margin: 40px auto;
+    text-align: justify;
+    background-color: white;
+    padding: 20px 50px;
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+.intro {
+    color: blue;
+}
+#my-id{background-color: orange;}
